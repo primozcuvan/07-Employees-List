@@ -63,8 +63,8 @@ class PublicProfileVC: UIViewController {
 
                                 // Reload table view after the data was fetched from web
                                 self.publicProfileTableView.reloadData()
-                                print("Title: \(self.headersTitle)")
-                                print("URL: \(self.headersUrl)")
+//                                print("Title: \(self.headersTitle)")
+//                                print("URL: \(self.headersUrl)")
                             }
                         }
                         
