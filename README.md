@@ -35,4 +35,3 @@ This project was created by Primož Čuvan in the recruitment process for the po
 7. Aditional information
     + Deployment target is iOS 13.0.
     + Application can be used on iPhone or iPad.
-    + Device orientation: portrait or landscape.
