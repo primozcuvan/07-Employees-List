@@ -24,10 +24,10 @@ This project was created by Primož Čuvan in the recruitment process for the po
     + The ID information is automatically generated after the new employee is added to the list.
 
 5. "PublicProfileVC"
-+ When the user selects the employee cell in the "EmployeesListVC" the public profile of this employee is displayed.
-+ The header of the tableView shows the name of the employee for whom the web search results are displayed.
-+ The screen shows top 5 hits when searching employee name.
-+ Each result consists of the title and the url.
-+ When the user selects a search result safari opens within the app and shows the search result.
+    + When the user selects the employee cell in the "EmployeesListVC" the public profile of this employee is displayed.
+    + The header of the tableView shows the name of the employee for whom the web search results are displayed.
+    + The screen shows top 5 hits when searching employee name.
+    + Each result consists of the title and the url.
+    + When the user selects a search result safari opens within the app and shows the search result.
 
 6. For the visual representation of the ViewControllers please see the file named "Main.storyboard".
