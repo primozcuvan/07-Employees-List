@@ -31,3 +31,8 @@ This project was created by Primož Čuvan in the recruitment process for the po
     + When the user selects a search result, Safari opens within the app and shows the search result.
 
 6. For the visual representation of the ViewControllers, please see the file named "Main.storyboard".
+
+7. Aditional information
+    + Deployment target is iOS 13.0.
+    + Application can be used on iPhone or iPad.
+    + Device orientation: portrait or landscape.
