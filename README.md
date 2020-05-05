@@ -1,9 +1,5 @@
 # 07-Employees-list
 
-
-This project was created by Primož Čuvan in the recruitment process for the position of a Junior iOS developer for the company Outfit7.
-
-
 1. The app is divided into two basic screens - "EmployeesListVC" and "AnalyticsVC" - which are presented with the Tab Bar controller. The structure of the app is organized in the ModelViewController (MVC) architecture.
 
 2. "EmployeesListVC"
